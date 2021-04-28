@@ -1,2 +1,3 @@
 # ECHO
- 
+
+This repository contains the Edge-Centric Handover (ECHO) Management System scripts for connected vehicles. It is a centralized handover management system that uses lstm model and software-defined networking for implementing the network selection and handover of mobile agents in real-time. These scripts can be combined with the Opennet simulator (mininet+ns3 simulator) for implementing the ECHO system in simulation. 
