@@ -1,0 +1,634 @@
+26313
+PING 10.10.12.99 (10.10.12.99) 1024(1052) bytes of data.
+From 10.10.14.20 icmp_seq=1 Destination Host Unreachable
+From 10.10.14.20 icmp_seq=2 Destination Host Unreachable
+
+--- 10.10.12.99 ping statistics ---
+2 packets transmitted, 0 received, +2 errors, 100% packet loss, time 999ms
+pipe 2
+26359
+PING 10.10.12.99 (10.10.12.99) 1024(1052) bytes of data.
+From 10.10.14.20 icmp_seq=1 Destination Host Unreachable
+From 10.10.14.20 icmp_seq=2 Destination Host Unreachable
+
+--- 10.10.12.99 ping statistics ---
+2 packets transmitted, 0 received, +2 errors, 100% packet loss, time 999ms
+pipe 2
+26404
+PING 10.10.12.99 (10.10.12.99) 1024(1052) bytes of data.
+From 10.10.14.20 icmp_seq=1 Destination Host Unreachable
+From 10.10.14.20 icmp_seq=2 Destination Host Unreachable
+
+--- 10.10.12.99 ping statistics ---
+2 packets transmitted, 0 received, +2 errors, 100% packet loss, time 999ms
+pipe 2
+26453
+PING 10.10.12.99 (10.10.12.99) 1024(1052) bytes of data.
+From 10.10.14.20 icmp_seq=1 Destination Host Unreachable
+From 10.10.14.20 icmp_seq=2 Destination Host Unreachable
+
+--- 10.10.12.99 ping statistics ---
+2 packets transmitted, 0 received, +2 errors, 100% packet loss, time 999ms
+pipe 2
+26505
+PING 10.10.12.99 (10.10.12.99) 1024(1052) bytes of data.
+From 10.10.14.20 icmp_seq=1 Destination Host Unreachable
+From 10.10.14.20 icmp_seq=2 Destination Host Unreachable
+
+--- 10.10.12.99 ping statistics ---
+2 packets transmitted, 0 received, +2 errors, 100% packet loss, time 1000ms
+pipe 2
+26558
+PING 10.10.12.99 (10.10.12.99) 1024(1052) bytes of data.
+From 10.10.14.20 icmp_seq=1 Destination Host Unreachable
+From 10.10.14.20 icmp_seq=2 Destination Host Unreachable
+
+--- 10.10.12.99 ping statistics ---
+2 packets transmitted, 0 received, +2 errors, 100% packet loss, time 999ms
+pipe 2
+26648
+PING 10.10.12.99 (10.10.12.99) 1024(1052) bytes of data.
+
+--- 10.10.12.99 ping statistics ---
+2 packets transmitted, 0 received, 100% packet loss, time 999ms
+
+26765
+PING 10.10.12.99 (10.10.12.99) 1024(1052) bytes of data.
+
+--- 10.10.12.99 ping statistics ---
+2 packets transmitted, 0 received, 100% packet loss, time 999ms
+
+26854
+PING 10.10.12.99 (10.10.12.99) 1024(1052) bytes of data.
+
+--- 10.10.12.99 ping statistics ---
+2 packets transmitted, 0 received, 100% packet loss, time 999ms
+
+26951
+PING 10.10.12.99 (10.10.12.99) 1024(1052) bytes of data.
+
+--- 10.10.12.99 ping statistics ---
+2 packets transmitted, 0 received, 100% packet loss, time 1000ms
+
+27057
+PING 10.10.12.99 (10.10.12.99) 1024(1052) bytes of data.
+
+--- 10.10.12.99 ping statistics ---
+2 packets transmitted, 0 received, 100% packet loss, time 1000ms
+
+27157
+PING 10.10.12.99 (10.10.12.99) 1024(1052) bytes of data.
+
+--- 10.10.12.99 ping statistics ---
+2 packets transmitted, 0 received, 100% packet loss, time 1000ms
+
+27333
+PING 10.10.12.99 (10.10.12.99) 1024(1052) bytes of data.
+
+--- 10.10.12.99 ping statistics ---
+2 packets transmitted, 0 received, 100% packet loss, time 999ms
+
+27431
+PING 10.10.12.99 (10.10.12.99) 1024(1052) bytes of data.
+
+--- 10.10.12.99 ping statistics ---
+2 packets transmitted, 0 received, 100% packet loss, time 999ms
+
+27530
+PING 10.10.12.99 (10.10.12.99) 1024(1052) bytes of data.
+
+--- 10.10.12.99 ping statistics ---
+2 packets transmitted, 0 received, 100% packet loss, time 1000ms
+
+27630
+PING 10.10.12.99 (10.10.12.99) 1024(1052) bytes of data.
+
+--- 10.10.12.99 ping statistics ---
+2 packets transmitted, 0 received, 100% packet loss, time 1000ms
+
+27685
+PING 10.10.12.99 (10.10.12.99) 1024(1052) bytes of data.
+1032 bytes from 10.10.12.99: icmp_seq=1 ttl=64 time=223 ms
+1032 bytes from 10.10.12.99: icmp_seq=2 ttl=64 time=18.3 ms
+
+--- 10.10.12.99 ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 999ms
+rtt min/avg/max/mdev = 18.351/120.721/223.092/102.371 ms
+27727
+PING 10.10.12.99 (10.10.12.99) 1024(1052) bytes of data.
+1032 bytes from 10.10.12.99: icmp_seq=1 ttl=64 time=204 ms
+1032 bytes from 10.10.12.99: icmp_seq=2 ttl=64 time=20.2 ms
+
+--- 10.10.12.99 ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 1000ms
+rtt min/avg/max/mdev = 20.231/112.318/204.405/92.087 ms
+27771
+PING 10.10.12.99 (10.10.12.99) 1024(1052) bytes of data.
+1032 bytes from 10.10.12.99: icmp_seq=1 ttl=64 time=134 ms
+1032 bytes from 10.10.12.99: icmp_seq=2 ttl=64 time=21.1 ms
+
+--- 10.10.12.99 ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 1001ms
+rtt min/avg/max/mdev = 21.100/77.944/134.788/56.844 ms
+27815
+PING 10.10.12.99 (10.10.12.99) 1024(1052) bytes of data.
+1032 bytes from 10.10.12.99: icmp_seq=1 ttl=64 time=125 ms
+1032 bytes from 10.10.12.99: icmp_seq=2 ttl=64 time=17.4 ms
+
+--- 10.10.12.99 ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 1000ms
+rtt min/avg/max/mdev = 17.492/71.465/125.439/53.974 ms
+27859
+PING 10.10.12.99 (10.10.12.99) 1024(1052) bytes of data.
+1032 bytes from 10.10.12.99: icmp_seq=1 ttl=64 time=168 ms
+1032 bytes from 10.10.12.99: icmp_seq=2 ttl=64 time=18.4 ms
+
+--- 10.10.12.99 ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 1000ms
+rtt min/avg/max/mdev = 18.454/93.255/168.057/74.802 ms
+27903
+PING 10.10.12.99 (10.10.12.99) 1024(1052) bytes of data.
+1032 bytes from 10.10.12.99: icmp_seq=1 ttl=64 time=205 ms
+1032 bytes from 10.10.12.99: icmp_seq=2 ttl=64 time=217 ms
+
+--- 10.10.12.99 ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 1001ms
+rtt min/avg/max/mdev = 205.420/211.464/217.509/6.061 ms
+27948
+PING 10.10.12.99 (10.10.12.99) 1024(1052) bytes of data.
+1032 bytes from 10.10.12.99: icmp_seq=1 ttl=64 time=188 ms
+1032 bytes from 10.10.12.99: icmp_seq=2 ttl=64 time=66.9 ms
+
+--- 10.10.12.99 ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 1002ms
+rtt min/avg/max/mdev = 66.948/127.780/188.612/60.832 ms
+27992
+PING 10.10.12.99 (10.10.12.99) 1024(1052) bytes of data.
+1032 bytes from 10.10.12.99: icmp_seq=1 ttl=64 time=155 ms
+1032 bytes from 10.10.12.99: icmp_seq=2 ttl=64 time=12.5 ms
+
+--- 10.10.12.99 ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 1000ms
+rtt min/avg/max/mdev = 12.533/83.905/155.278/71.373 ms
+28036
+PING 10.10.12.99 (10.10.12.99) 1024(1052) bytes of data.
+1032 bytes from 10.10.12.99: icmp_seq=1 ttl=64 time=140 ms
+1032 bytes from 10.10.12.99: icmp_seq=2 ttl=64 time=24.9 ms
+
+--- 10.10.12.99 ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 1001ms
+rtt min/avg/max/mdev = 24.998/82.682/140.367/57.685 ms
+28079
+PING 10.10.12.99 (10.10.12.99) 1024(1052) bytes of data.
+1032 bytes from 10.10.12.99: icmp_seq=1 ttl=64 time=202 ms
+1032 bytes from 10.10.12.99: icmp_seq=2 ttl=64 time=56.4 ms
+
+--- 10.10.12.99 ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 1001ms
+rtt min/avg/max/mdev = 56.482/129.572/202.663/73.091 ms
+28122
+PING 10.10.12.99 (10.10.12.99) 1024(1052) bytes of data.
+1032 bytes from 10.10.12.99: icmp_seq=1 ttl=64 time=160 ms
+1032 bytes from 10.10.12.99: icmp_seq=2 ttl=64 time=18.2 ms
+
+--- 10.10.12.99 ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 1001ms
+rtt min/avg/max/mdev = 18.208/89.134/160.060/70.926 ms
+28166
+PING 10.10.12.99 (10.10.12.99) 1024(1052) bytes of data.
+1032 bytes from 10.10.12.99: icmp_seq=1 ttl=64 time=140 ms
+1032 bytes from 10.10.12.99: icmp_seq=2 ttl=64 time=14.7 ms
+
+--- 10.10.12.99 ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 1001ms
+rtt min/avg/max/mdev = 14.777/77.646/140.516/62.870 ms
+28210
+PING 10.10.12.99 (10.10.12.99) 1024(1052) bytes of data.
+1032 bytes from 10.10.12.99: icmp_seq=1 ttl=64 time=117 ms
+1032 bytes from 10.10.12.99: icmp_seq=2 ttl=64 time=6.28 ms
+
+--- 10.10.12.99 ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 1000ms
+rtt min/avg/max/mdev = 6.286/61.766/117.246/55.480 ms
+28255
+PING 10.10.12.99 (10.10.12.99) 1024(1052) bytes of data.
+1032 bytes from 10.10.12.99: icmp_seq=1 ttl=64 time=112 ms
+1032 bytes from 10.10.12.99: icmp_seq=2 ttl=64 time=11.1 ms
+
+--- 10.10.12.99 ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 1001ms
+rtt min/avg/max/mdev = 11.160/61.659/112.159/50.500 ms
+28299
+PING 10.10.12.99 (10.10.12.99) 1024(1052) bytes of data.
+1032 bytes from 10.10.12.99: icmp_seq=1 ttl=64 time=122 ms
+1032 bytes from 10.10.12.99: icmp_seq=2 ttl=64 time=15.4 ms
+
+--- 10.10.12.99 ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 1001ms
+rtt min/avg/max/mdev = 15.407/68.893/122.380/53.487 ms
+28343
+PING 10.10.12.99 (10.10.12.99) 1024(1052) bytes of data.
+1032 bytes from 10.10.12.99: icmp_seq=1 ttl=64 time=121 ms
+1032 bytes from 10.10.12.99: icmp_seq=2 ttl=64 time=158 ms
+
+--- 10.10.12.99 ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 1001ms
+rtt min/avg/max/mdev = 121.063/139.813/158.564/18.754 ms
+28387
+PING 10.10.12.99 (10.10.12.99) 1024(1052) bytes of data.
+1032 bytes from 10.10.12.99: icmp_seq=1 ttl=64 time=157 ms
+1032 bytes from 10.10.12.99: icmp_seq=2 ttl=64 time=13.9 ms
+
+--- 10.10.12.99 ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 1000ms
+rtt min/avg/max/mdev = 13.957/85.534/157.111/71.577 ms
+28430
+PING 10.10.12.99 (10.10.12.99) 1024(1052) bytes of data.
+1032 bytes from 10.10.12.99: icmp_seq=1 ttl=64 time=122 ms
+1032 bytes from 10.10.12.99: icmp_seq=2 ttl=64 time=22.2 ms
+
+--- 10.10.12.99 ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 1001ms
+rtt min/avg/max/mdev = 22.272/72.163/122.054/49.891 ms
+28476
+PING 10.10.12.99 (10.10.12.99) 1024(1052) bytes of data.
+1032 bytes from 10.10.12.99: icmp_seq=1 ttl=64 time=91.0 ms
+1032 bytes from 10.10.12.99: icmp_seq=2 ttl=64 time=70.2 ms
+
+--- 10.10.12.99 ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 1000ms
+rtt min/avg/max/mdev = 70.225/80.645/91.066/10.424 ms
+28521
+PING 10.10.12.99 (10.10.12.99) 1024(1052) bytes of data.
+1032 bytes from 10.10.12.99: icmp_seq=1 ttl=64 time=142 ms
+1032 bytes from 10.10.12.99: icmp_seq=2 ttl=64 time=13.2 ms
+
+--- 10.10.12.99 ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 1001ms
+rtt min/avg/max/mdev = 13.233/77.853/142.473/64.620 ms
+28568
+PING 10.10.12.99 (10.10.12.99) 1024(1052) bytes of data.
+1032 bytes from 10.10.12.99: icmp_seq=1 ttl=64 time=62.4 ms
+1032 bytes from 10.10.12.99: icmp_seq=2 ttl=64 time=31.1 ms
+
+--- 10.10.12.99 ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 1002ms
+rtt min/avg/max/mdev = 31.184/46.833/62.483/15.650 ms
+28614
+PING 10.10.12.99 (10.10.12.99) 1024(1052) bytes of data.
+1032 bytes from 10.10.12.99: icmp_seq=1 ttl=64 time=96.6 ms
+1032 bytes from 10.10.12.99: icmp_seq=2 ttl=64 time=15.9 ms
+
+--- 10.10.12.99 ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 1000ms
+rtt min/avg/max/mdev = 15.909/56.272/96.636/40.364 ms
+28657
+PING 10.10.12.99 (10.10.12.99) 1024(1052) bytes of data.
+1032 bytes from 10.10.12.99: icmp_seq=1 ttl=64 time=95.0 ms
+1032 bytes from 10.10.12.99: icmp_seq=2 ttl=64 time=11.6 ms
+
+--- 10.10.12.99 ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 1000ms
+rtt min/avg/max/mdev = 11.650/53.371/95.092/41.721 ms
+28701
+PING 10.10.12.99 (10.10.12.99) 1024(1052) bytes of data.
+1032 bytes from 10.10.12.99: icmp_seq=1 ttl=64 time=102 ms
+1032 bytes from 10.10.12.99: icmp_seq=2 ttl=64 time=14.2 ms
+
+--- 10.10.12.99 ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 999ms
+rtt min/avg/max/mdev = 14.216/58.126/102.036/43.910 ms
+28746
+PING 10.10.12.99 (10.10.12.99) 1024(1052) bytes of data.
+1032 bytes from 10.10.12.99: icmp_seq=1 ttl=64 time=140 ms
+1032 bytes from 10.10.12.99: icmp_seq=2 ttl=64 time=14.7 ms
+
+--- 10.10.12.99 ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 1000ms
+rtt min/avg/max/mdev = 14.730/77.847/140.965/63.118 ms
+28788
+PING 10.10.12.99 (10.10.12.99) 1024(1052) bytes of data.
+1032 bytes from 10.10.12.99: icmp_seq=1 ttl=64 time=185 ms
+1032 bytes from 10.10.12.99: icmp_seq=2 ttl=64 time=13.3 ms
+
+--- 10.10.12.99 ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 1000ms
+rtt min/avg/max/mdev = 13.399/99.225/185.052/85.827 ms
+28835
+PING 10.10.12.99 (10.10.12.99) 1024(1052) bytes of data.
+1032 bytes from 10.10.12.99: icmp_seq=1 ttl=64 time=154 ms
+1032 bytes from 10.10.12.99: icmp_seq=2 ttl=64 time=86.2 ms
+
+--- 10.10.12.99 ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 1000ms
+rtt min/avg/max/mdev = 86.292/120.214/154.136/33.922 ms
+28879
+PING 10.10.12.99 (10.10.12.99) 1024(1052) bytes of data.
+1032 bytes from 10.10.12.99: icmp_seq=1 ttl=64 time=177 ms
+1032 bytes from 10.10.12.99: icmp_seq=2 ttl=64 time=76.5 ms
+
+--- 10.10.12.99 ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 1000ms
+rtt min/avg/max/mdev = 76.517/127.025/177.533/50.508 ms
+28921
+PING 10.10.12.99 (10.10.12.99) 1024(1052) bytes of data.
+1032 bytes from 10.10.12.99: icmp_seq=1 ttl=64 time=185 ms
+1032 bytes from 10.10.12.99: icmp_seq=2 ttl=64 time=13.9 ms
+
+--- 10.10.12.99 ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 1000ms
+rtt min/avg/max/mdev = 13.987/99.579/185.171/85.592 ms
+28967
+PING 10.10.12.99 (10.10.12.99) 1024(1052) bytes of data.
+1032 bytes from 10.10.12.99: icmp_seq=1 ttl=64 time=119 ms
+1032 bytes from 10.10.12.99: icmp_seq=2 ttl=64 time=19.5 ms
+
+--- 10.10.12.99 ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 1000ms
+rtt min/avg/max/mdev = 19.543/69.434/119.325/49.891 ms
+29010
+PING 10.10.12.99 (10.10.12.99) 1024(1052) bytes of data.
+1032 bytes from 10.10.12.99: icmp_seq=1 ttl=64 time=165 ms
+1032 bytes from 10.10.12.99: icmp_seq=2 ttl=64 time=205 ms
+
+--- 10.10.12.99 ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 999ms
+rtt min/avg/max/mdev = 165.863/185.806/205.750/19.948 ms
+29055
+PING 10.10.12.99 (10.10.12.99) 1024(1052) bytes of data.
+1032 bytes from 10.10.12.99: icmp_seq=1 ttl=64 time=168 ms
+1032 bytes from 10.10.12.99: icmp_seq=2 ttl=64 time=211 ms
+
+--- 10.10.12.99 ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 1000ms
+rtt min/avg/max/mdev = 168.602/189.835/211.069/21.237 ms
+29101
+PING 10.10.12.99 (10.10.12.99) 1024(1052) bytes of data.
+1032 bytes from 10.10.12.99: icmp_seq=1 ttl=64 time=123 ms
+1032 bytes from 10.10.12.99: icmp_seq=2 ttl=64 time=12.5 ms
+
+--- 10.10.12.99 ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 1001ms
+rtt min/avg/max/mdev = 12.537/68.036/123.535/55.499 ms
+29144
+PING 10.10.12.99 (10.10.12.99) 1024(1052) bytes of data.
+1032 bytes from 10.10.12.99: icmp_seq=1 ttl=64 time=122 ms
+1032 bytes from 10.10.12.99: icmp_seq=2 ttl=64 time=20.0 ms
+
+--- 10.10.12.99 ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 1001ms
+rtt min/avg/max/mdev = 20.068/71.106/122.144/51.038 ms
+29187
+PING 10.10.12.99 (10.10.12.99) 1024(1052) bytes of data.
+1032 bytes from 10.10.12.99: icmp_seq=1 ttl=64 time=199 ms
+1032 bytes from 10.10.12.99: icmp_seq=2 ttl=64 time=119 ms
+
+--- 10.10.12.99 ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 1000ms
+rtt min/avg/max/mdev = 119.287/159.461/199.636/40.176 ms
+29232
+PING 10.10.12.99 (10.10.12.99) 1024(1052) bytes of data.
+1032 bytes from 10.10.12.99: icmp_seq=1 ttl=64 time=151 ms
+1032 bytes from 10.10.12.99: icmp_seq=2 ttl=64 time=14.5 ms
+
+--- 10.10.12.99 ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 1000ms
+rtt min/avg/max/mdev = 14.532/83.058/151.584/68.526 ms
+29275
+PING 10.10.12.99 (10.10.12.99) 1024(1052) bytes of data.
+1032 bytes from 10.10.12.99: icmp_seq=1 ttl=64 time=368 ms
+1032 bytes from 10.10.12.99: icmp_seq=2 ttl=64 time=111 ms
+
+--- 10.10.12.99 ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 999ms
+rtt min/avg/max/mdev = 111.181/239.830/368.480/128.650 ms
+29320
+PING 10.10.12.99 (10.10.12.99) 1024(1052) bytes of data.
+1032 bytes from 10.10.12.99: icmp_seq=1 ttl=64 time=178 ms
+1032 bytes from 10.10.12.99: icmp_seq=2 ttl=64 time=24.5 ms
+
+--- 10.10.12.99 ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 1001ms
+rtt min/avg/max/mdev = 24.589/101.571/178.554/76.983 ms
+29363
+PING 10.10.12.99 (10.10.12.99) 1024(1052) bytes of data.
+1032 bytes from 10.10.12.99: icmp_seq=1 ttl=64 time=185 ms
+1032 bytes from 10.10.12.99: icmp_seq=2 ttl=64 time=327 ms
+
+--- 10.10.12.99 ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 1000ms
+rtt min/avg/max/mdev = 185.163/256.392/327.621/71.229 ms
+29406
+PING 10.10.12.99 (10.10.12.99) 1024(1052) bytes of data.
+1032 bytes from 10.10.12.99: icmp_seq=1 ttl=64 time=152 ms
+1032 bytes from 10.10.12.99: icmp_seq=2 ttl=64 time=9.39 ms
+
+--- 10.10.12.99 ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 1000ms
+rtt min/avg/max/mdev = 9.392/81.164/152.936/71.772 ms
+29452
+PING 10.10.12.99 (10.10.12.99) 1024(1052) bytes of data.
+1032 bytes from 10.10.12.99: icmp_seq=1 ttl=64 time=113 ms
+1032 bytes from 10.10.12.99: icmp_seq=2 ttl=64 time=24.8 ms
+
+--- 10.10.12.99 ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 1001ms
+rtt min/avg/max/mdev = 24.821/69.280/113.740/44.460 ms
+29495
+PING 10.10.12.99 (10.10.12.99) 1024(1052) bytes of data.
+1032 bytes from 10.10.12.99: icmp_seq=1 ttl=64 time=177 ms
+1032 bytes from 10.10.12.99: icmp_seq=2 ttl=64 time=20.0 ms
+
+--- 10.10.12.99 ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 999ms
+rtt min/avg/max/mdev = 20.057/99.026/177.996/78.970 ms
+29539
+PING 10.10.12.99 (10.10.12.99) 1024(1052) bytes of data.
+1032 bytes from 10.10.12.99: icmp_seq=1 ttl=64 time=264 ms
+1032 bytes from 10.10.12.99: icmp_seq=2 ttl=64 time=23.0 ms
+
+--- 10.10.12.99 ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 1000ms
+rtt min/avg/max/mdev = 23.018/143.682/264.347/120.665 ms
+29583
+PING 10.10.12.99 (10.10.12.99) 1024(1052) bytes of data.
+1032 bytes from 10.10.12.99: icmp_seq=1 ttl=64 time=183 ms
+1032 bytes from 10.10.12.99: icmp_seq=2 ttl=64 time=53.9 ms
+
+--- 10.10.12.99 ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 1001ms
+rtt min/avg/max/mdev = 53.932/118.577/183.222/64.645 ms
+29627
+PING 10.10.12.99 (10.10.12.99) 1024(1052) bytes of data.
+1032 bytes from 10.10.12.99: icmp_seq=1 ttl=64 time=158 ms
+1032 bytes from 10.10.12.99: icmp_seq=2 ttl=64 time=21.6 ms
+
+--- 10.10.12.99 ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 1000ms
+rtt min/avg/max/mdev = 21.604/89.889/158.175/68.286 ms
+29695
+PING 10.10.12.99 (10.10.12.99) 1024(1052) bytes of data.
+
+--- 10.10.12.99 ping statistics ---
+2 packets transmitted, 0 received, 100% packet loss, time 999ms
+
+29759
+PING 10.10.12.99 (10.10.12.99) 1024(1052) bytes of data.
+From 10.10.14.20 icmp_seq=1 Destination Host Unreachable
+From 10.10.14.20 icmp_seq=2 Destination Host Unreachable
+
+--- 10.10.12.99 ping statistics ---
+2 packets transmitted, 0 received, +2 errors, 100% packet loss, time 1000ms
+pipe 2
+29805
+PING 10.10.12.99 (10.10.12.99) 1024(1052) bytes of data.
+From 10.10.14.20 icmp_seq=1 Destination Host Unreachable
+From 10.10.14.20 icmp_seq=2 Destination Host Unreachable
+
+--- 10.10.12.99 ping statistics ---
+2 packets transmitted, 0 received, +2 errors, 100% packet loss, time 1002ms
+pipe 2
+29850
+PING 10.10.12.99 (10.10.12.99) 1024(1052) bytes of data.
+From 10.10.14.20 icmp_seq=1 Destination Host Unreachable
+From 10.10.14.20 icmp_seq=2 Destination Host Unreachable
+
+--- 10.10.12.99 ping statistics ---
+2 packets transmitted, 0 received, +2 errors, 100% packet loss, time 999ms
+pipe 2
+29896
+PING 10.10.12.99 (10.10.12.99) 1024(1052) bytes of data.
+From 10.10.14.20 icmp_seq=1 Destination Host Unreachable
+From 10.10.14.20 icmp_seq=2 Destination Host Unreachable
+
+--- 10.10.12.99 ping statistics ---
+2 packets transmitted, 0 received, +2 errors, 100% packet loss, time 999ms
+pipe 2
+29942
+PING 10.10.12.99 (10.10.12.99) 1024(1052) bytes of data.
+From 10.10.14.20 icmp_seq=1 Destination Host Unreachable
+From 10.10.14.20 icmp_seq=2 Destination Host Unreachable
+
+--- 10.10.12.99 ping statistics ---
+2 packets transmitted, 0 received, +2 errors, 100% packet loss, time 999ms
+pipe 2
+29987
+PING 10.10.12.99 (10.10.12.99) 1024(1052) bytes of data.
+From 10.10.14.20 icmp_seq=1 Destination Host Unreachable
+From 10.10.14.20 icmp_seq=2 Destination Host Unreachable
+
+--- 10.10.12.99 ping statistics ---
+2 packets transmitted, 0 received, +2 errors, 100% packet loss, time 1000ms
+pipe 2
+30032
+PING 10.10.12.99 (10.10.12.99) 1024(1052) bytes of data.
+From 10.10.14.20 icmp_seq=1 Destination Host Unreachable
+From 10.10.14.20 icmp_seq=2 Destination Host Unreachable
+
+--- 10.10.12.99 ping statistics ---
+2 packets transmitted, 0 received, +2 errors, 100% packet loss, time 1000ms
+pipe 2
+30076
+PING 10.10.12.99 (10.10.12.99) 1024(1052) bytes of data.
+From 10.10.14.20 icmp_seq=1 Destination Host Unreachable
+From 10.10.14.20 icmp_seq=2 Destination Host Unreachable
+
+--- 10.10.12.99 ping statistics ---
+2 packets transmitted, 0 received, +2 errors, 100% packet loss, time 1000ms
+pipe 2
+30121
+PING 10.10.12.99 (10.10.12.99) 1024(1052) bytes of data.
+From 10.10.14.20 icmp_seq=1 Destination Host Unreachable
+From 10.10.14.20 icmp_seq=2 Destination Host Unreachable
+
+--- 10.10.12.99 ping statistics ---
+2 packets transmitted, 0 received, +2 errors, 100% packet loss, time 1000ms
+pipe 2
+30169
+PING 10.10.12.99 (10.10.12.99) 1024(1052) bytes of data.
+From 10.10.14.20 icmp_seq=1 Destination Host Unreachable
+From 10.10.14.20 icmp_seq=2 Destination Host Unreachable
+
+--- 10.10.12.99 ping statistics ---
+2 packets transmitted, 0 received, +2 errors, 100% packet loss, time 1000ms
+pipe 2
+30215
+PING 10.10.12.99 (10.10.12.99) 1024(1052) bytes of data.
+From 10.10.14.20 icmp_seq=1 Destination Host Unreachable
+From 10.10.14.20 icmp_seq=2 Destination Host Unreachable
+
+--- 10.10.12.99 ping statistics ---
+2 packets transmitted, 0 received, +2 errors, 100% packet loss, time 999ms
+pipe 2
+30261
+PING 10.10.12.99 (10.10.12.99) 1024(1052) bytes of data.
+From 10.10.14.20 icmp_seq=1 Destination Host Unreachable
+From 10.10.14.20 icmp_seq=2 Destination Host Unreachable
+
+--- 10.10.12.99 ping statistics ---
+2 packets transmitted, 0 received, +2 errors, 100% packet loss, time 999ms
+pipe 2
+30305
+PING 10.10.12.99 (10.10.12.99) 1024(1052) bytes of data.
+From 10.10.14.20 icmp_seq=1 Destination Host Unreachable
+From 10.10.14.20 icmp_seq=2 Destination Host Unreachable
+
+--- 10.10.12.99 ping statistics ---
+2 packets transmitted, 0 received, +2 errors, 100% packet loss, time 999ms
+pipe 2
+30350
+PING 10.10.12.99 (10.10.12.99) 1024(1052) bytes of data.
+From 10.10.14.20 icmp_seq=1 Destination Host Unreachable
+From 10.10.14.20 icmp_seq=2 Destination Host Unreachable
+
+--- 10.10.12.99 ping statistics ---
+2 packets transmitted, 0 received, +2 errors, 100% packet loss, time 999ms
+pipe 2
+30398
+PING 10.10.12.99 (10.10.12.99) 1024(1052) bytes of data.
+From 10.10.14.20 icmp_seq=1 Destination Host Unreachable
+From 10.10.14.20 icmp_seq=2 Destination Host Unreachable
+
+--- 10.10.12.99 ping statistics ---
+2 packets transmitted, 0 received, +2 errors, 100% packet loss, time 1000ms
+pipe 2
+30443
+PING 10.10.12.99 (10.10.12.99) 1024(1052) bytes of data.
+From 10.10.14.20 icmp_seq=1 Destination Host Unreachable
+From 10.10.14.20 icmp_seq=2 Destination Host Unreachable
+
+--- 10.10.12.99 ping statistics ---
+2 packets transmitted, 0 received, +2 errors, 100% packet loss, time 1008ms
+pipe 2
+30488
+PING 10.10.12.99 (10.10.12.99) 1024(1052) bytes of data.
+From 10.10.14.20 icmp_seq=1 Destination Host Unreachable
+From 10.10.14.20 icmp_seq=2 Destination Host Unreachable
+
+--- 10.10.12.99 ping statistics ---
+2 packets transmitted, 0 received, +2 errors, 100% packet loss, time 999ms
+pipe 2
+30535
+PING 10.10.12.99 (10.10.12.99) 1024(1052) bytes of data.
+From 10.10.14.20 icmp_seq=1 Destination Host Unreachable
+From 10.10.14.20 icmp_seq=2 Destination Host Unreachable
+
+--- 10.10.12.99 ping statistics ---
+2 packets transmitted, 0 received, +2 errors, 100% packet loss, time 999ms
+pipe 2
+30599
+PING 10.10.12.99 (10.10.12.99) 1024(1052) bytes of data.
+From 10.10.14.20 icmp_seq=1 Destination Host Unreachable
+From 10.10.14.20 icmp_seq=2 Destination Host Unreachable
+
+--- 10.10.12.99 ping statistics ---
+2 packets transmitted, 0 received, +2 errors, 100% packet loss, time 1000ms
+pipe 2
+30652
+PING 10.10.12.99 (10.10.12.99) 1024(1052) bytes of data.
+From 10.10.14.20 icmp_seq=1 Destination Host Unreachable
+From 10.10.14.20 icmp_seq=2 Destination Host Unreachable
+
+--- 10.10.12.99 ping statistics ---
+2 packets transmitted, 0 received, +2 errors, 100% packet loss, time 1000ms
+pipe 2
